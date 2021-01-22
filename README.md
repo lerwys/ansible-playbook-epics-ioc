@@ -3,7 +3,10 @@ Ansible Playbook EPICS IOC
 
 [![BSD License](https://img.shields.io/github/license/lerwys/ansible-playbook-epics-ioc.svg?style=flat)](LICENSE)
 
-This Ansible playbook is an example on how to use the lerwys.epics_ioc role.
+This Ansible playbook is an example on how to use the
+[lerwys.epics_ioc](https://github.com/lerwys/ansible-role-epics-ioc) role,
+available on [Ansible Galaxy](https://galaxy.ansible.com/lerwys/epics_ioc),
+as well.
 
 ## Requirements
 
